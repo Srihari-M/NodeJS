@@ -1,0 +1,6 @@
+---
+applications:
+- name: BluMxrefrapp
+  memory: 128M
+  instances: 1
+
