@@ -1,0 +1,6 @@
+---
+applications:
+- name: BMSocketnullapp123
+  memory: 128M
+  instances: 1
+
