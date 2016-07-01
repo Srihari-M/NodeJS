@@ -1,0 +1,6 @@
+---
+applications:
+- name: BlMixreferapp
+  memory: 128M
+  instances: 1
+
