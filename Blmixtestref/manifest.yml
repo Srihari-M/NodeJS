@@ -1,0 +1,6 @@
+---
+applications:
+- name: Blmixtestref
+  memory: 128M
+  instances: 1
+
