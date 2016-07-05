@@ -1,0 +1,6 @@
+---
+applications:
+- name: Pivotestref
+  memory: 128M
+  instances: 1
+
