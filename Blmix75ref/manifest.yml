@@ -1,0 +1,6 @@
+---
+applications:
+- name: Blmix75ref
+  memory: 128M
+  instances: 1
+
