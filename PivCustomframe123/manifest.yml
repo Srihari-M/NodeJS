@@ -1,0 +1,7 @@
+---
+applications:
+- name: PivCustomframe123
+  memory: 128M
+  instances: 1
+  services:
+   - service_name
