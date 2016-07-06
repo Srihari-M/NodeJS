@@ -1,0 +1,7 @@
+---
+applications:
+- name: Pivcustref
+  memory: 128M
+  instances: 1
+  services:
+   - kocleardb
