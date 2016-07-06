@@ -1,0 +1,7 @@
+---
+applications:
+- name: Pivcustref123
+  memory: 128M
+  instances: 1
+  services:
+   - Pivcustref123-mongodbmlab-2016-07-06 01:23:12.604
