@@ -1,0 +1,7 @@
+---
+applications:
+- name: Nodejs1
+  memory: 128M
+  instances: 1
+  services:
+   - Nodejs1-mongodbmlab-2016-07-15 06:22:09.905
